@@ -23,6 +23,6 @@ and deploy them end to end on AWS EC2.
 Solved 300+ problems on LeetCode and 150+ on CodeChef.
 
 ## Connect
-- LinkedIn: [linkedin.com/in/rohit-sinha](https://linkedin.com/in/rohit-sinha)
+- LinkedIn: [linkedin.com/in/rohit-sinha-ba7298238](https://linkedin.com/in/rohit-sinha-ba7298238/)
 - LeetCode: [leetcode.com/sinharohit01](https://leetcode.com/sinharohit01)
 - Email: sinharohit96690@gmail.com
