@@ -4,7 +4,7 @@ from REST APIs and authentication systems to responsive React frontends —
 and deploy them end to end on AWS EC2.
 
 ## Stack
-- **Frontend:** React.js, JavaScript (ES6+), TypeScript, Vite, HTML5, CSS3
+- **Frontend:** React.js, Redux Toolkit, JavaScript (ES6+), TypeScript, Vite, HTML5, CSS3
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 - **Database:** MongoDB, Mongoose
 - **DevOps:** AWS EC2, Nginx, PM2, Linux CLI
@@ -14,6 +14,11 @@ and deploy them end to end on AWS EC2.
 - **[Jira Admin App](https://github.com/RohitGkmit08/jira-admin-app)** — 
   Multi-project task management system with RBAC, Kanban board, 
   workflow state machine, and audit logging. Deployed on AWS EC2.
+
+- **[SwiftCart](https://github.com/RohitGkmit08/SwiftCart)** — 
+  Premium full-stack e-commerce web application with Node.js/Express backend API, 
+  MongoDB database, Razorpay payment integration, Cloudinary media storage, 
+  OTP email verification, and Redux Toolkit state management.
 
 - **[MyBlog](https://github.com/RohitGkmit08/blog-app-frontend)** — 
   Full-stack blogging platform with admin dashboard, comment moderation,
