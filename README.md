@@ -7,7 +7,7 @@ and deploy them end to end on AWS EC2.
 - **Frontend:** React.js, Redux Toolkit, JavaScript (ES6+), TypeScript, Vite, HTML5, CSS3
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 - **Database:** MongoDB, Mongoose
-- **DevOps:** AWS EC2, Nginx, PM2, Linux CLI
+- **DevOps:** AWS EC2
 - **Tools:** Git, GitHub, Vitest, React Testing Library
 
 ## Projects
